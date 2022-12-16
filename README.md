@@ -1,5 +1,7 @@
 ### Hiiii 👋
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Akshay03x&label=Profile%20Views&color=12&icon=5&pretty=false" />
+</a>
 <!--
 **Akshay03x/Akshay03x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
