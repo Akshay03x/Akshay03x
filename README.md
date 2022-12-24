@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshay03x&show_icons=true&theme=tokyonight&title_color=ff7800&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="dhruvkaravadiya" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshay03x&show_icons=true&theme=tokyonight&title_color=ff7800&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="dhruvkaravadiya" /></p> -->
 You are the <img src="https://profile-counter.glitch.me/Akshay03x/count.svg">th visitor.</div>
